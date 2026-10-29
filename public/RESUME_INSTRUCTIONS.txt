@@ -1,0 +1,10 @@
+Place your actual resume PDF file here as `resume.pdf`.
+
+This file will be downloaded when users click the "Download Resume" button on the portfolio website.
+
+Steps:
+1. Name your resume file exactly: resume.pdf
+2. Place it in this directory: public/resume.pdf
+3. The download button in the navbar and hero section will automatically serve this file.
+
+If you need to update your resume, simply replace this file with the new version.
